@@ -120,15 +120,13 @@ Running the full pipeline produces:
 
 ## Citation
 
-If you use this code or data, please cite both the article and the
-archived release of this repository:
-
 > Falen, L., Aide, T. M. & Alonso, A. (2026). Ecological baselines and
 > co-governance as foundational design choices for the voluntary
-> biodiversity credit market. *Communications Sustainability*. DOI: [tbd]
+> biodiversity credit market. *Communications Sustainability*.
 >
 > Falen, L., Aide, T. M. & Alonso, A. (2026). Data and code for Falen
-> et al. 2026 (v1.0.0). *Zenodo*. DOI: [tbd]
+> et al. (2026) (v1.0.0). *Zenodo*.
+> https://doi.org/10.5281/zenodo.20517092
 
 ## License
 
